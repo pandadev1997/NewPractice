@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-20T11:42:51 IST" name="Default suite" finished-at="2023-03-20T11:43:36 IST" duration-ms="45268">
+    <groups>
+    </groups>
+    <test started-at="2023-03-20T11:42:51 IST" name="Default test" finished-at="2023-03-20T11:43:36 IST" duration-ms="45268">
+      <class name="Actitime.CreateUser.Test.Actitime_Create_user_Test">
+        <test-method is-config="true" signature="database()[pri:0, instance:Actitime.CreateUser.Test.Actitime_Create_user_Test@201a4587]" started-at="2023-03-20T11:42:51 IST" name="database" finished-at="2023-03-20T11:42:51 IST" duration-ms="12" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- database -->
+        <test-method is-config="true" signature="launch()[pri:0, instance:Actitime.CreateUser.Test.Actitime_Create_user_Test@201a4587]" started-at="2023-03-20T11:42:51 IST" name="launch" finished-at="2023-03-20T11:43:11 IST" duration-ms="20344" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method is-config="true" signature="loginto()[pri:0, instance:Actitime.CreateUser.Test.Actitime_Create_user_Test@201a4587]" started-at="2023-03-20T11:43:11 IST" name="loginto" finished-at="2023-03-20T11:43:16 IST" duration-ms="5364" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginto -->
+        <test-method signature="createUser()[pri:0, instance:Actitime.CreateUser.Test.Actitime_Create_user_Test@201a4587]" started-at="2023-03-20T11:43:16 IST" name="createUser" finished-at="2023-03-20T11:43:25 IST" duration-ms="8911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUser -->
+        <test-method is-config="true" signature="signoutnew()[pri:0, instance:Actitime.CreateUser.Test.Actitime_Create_user_Test@201a4587]" started-at="2023-03-20T11:43:25 IST" name="signoutnew" finished-at="2023-03-20T11:43:35 IST" duration-ms="9290" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- signoutnew -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:Actitime.CreateUser.Test.Actitime_Create_user_Test@201a4587]" started-at="2023-03-20T11:43:35 IST" name="closeBrowser" finished-at="2023-03-20T11:43:36 IST" duration-ms="1305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="connclose()[pri:0, instance:Actitime.CreateUser.Test.Actitime_Create_user_Test@201a4587]" started-at="2023-03-20T11:43:36 IST" name="connclose" finished-at="2023-03-20T11:43:36 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- connclose -->
+      </class> <!-- Actitime.CreateUser.Test.Actitime_Create_user_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
